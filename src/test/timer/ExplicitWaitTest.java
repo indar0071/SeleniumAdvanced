@@ -25,7 +25,7 @@ public class ExplicitWaitTest {
 		System.out.println("log in from application");
 		driver.findElement(By.xpath("//span[@id='profileLauncher']")).click();
 		driver.findElement(By.xpath("//*[@id=\"profileLauncherPopup\"]/div/div/div/ul/li[2]/a/span[2]")).click();
-		System.out.println("log out from application");
+		System.out.println("logout from application");
 		driver.close();
 
 	}
