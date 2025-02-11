@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="grouptest">
+<test name="groupReport">
+<groups>
+	         <define name="all">
+	            <include name="smokeTest"/>
+	            <include name="functionalTest"/>
+	         </define>
+        	<run>
+			<!-- include name="all" /-->
+			<exclude name="smokeTest"/>
+	          <include name="functionalTest"/>
+			
+			</run>        
+		</groups>
+<classes>
+<class name="Rangatestng.TestCase1" />
+<class name="Rangatestng.TestCase2" />
+</classes>
+</test>
+</suite>

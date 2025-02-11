@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/Testngjar/testng-7.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/Testngjar/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/Testngjar/jquery-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/Testngjar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/extentreports/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/Selenium_automation/jars/ExtentReports/jar_files/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
